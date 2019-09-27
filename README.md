@@ -1,3 +1,3 @@
 # Profile
 
-![Perfil](src/assets/img/profile.png)
+![Screenshot](/src/assets/img/profile.PNG)
