@@ -71,7 +71,7 @@
   }
   
   .social-icons a:hover {
-    background-color: #0f4aa4;
+    background-color: #ff5200;
   }
   
   .dev-icons {
@@ -79,7 +79,7 @@
   }
   
   .dev-icons .list-inline-item i:hover {
-    color: #0f4aa4;
+    color: #ff5200;
   }
   
   #sideNav .navbar-nav .nav-item .nav-link {
@@ -159,23 +159,36 @@
   }
   
   .bg-primary {
-    background: linear-gradient(145deg,#0d47a1,#3288db) !important;
+    background: #495057 !important;
   }
   
   .text-primary {
-    color: #0f4aa4 !important;
+    color: #ff5200 !important;
+  }
+
+  .badge-primary{
+    background: #ff5200 !important;
+    border-radius: 0px !important;
   }
   
   a {
-    color: #0f4aa4;
+    color: #ff5200;
   }
   
   a:hover, a:focus, a:active {
-    color: #0f4aa4;
+    color: #ff5200;
   }
 
   .c{
    color: #92b9e3;
+  }
+
+  .progress-bar {
+    background: #ff5200 !important;
+  }
+
+  .progress{
+    border-radius: 0px !important;
   }
 
   /* width */
